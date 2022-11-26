@@ -1,5 +1,5 @@
 # ROBOT-9_Color-Sorter-Robot-Project
-Chapter 1 code_Project_9 The Third Part 3 of "The Arduino World Book" code_Project_9 ROBOT-9_Color Sorter Robot Project
+Chapter 2 code_Project_9 The Third Part 3 of "The Arduino World Book" code_Project_9 ROBOT-9_Color Sorter Robot Project
 
 - code_Project_9
 
